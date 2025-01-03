@@ -17,6 +17,7 @@ Project Files:
       |-- assets/
           |-- images/
           |-- audio/
+          |-- videos/
 
 Want to Help?
 
